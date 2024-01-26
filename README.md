@@ -20,7 +20,7 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Fotos tiradas por mim
 
-![imagem 4](inputs/in222.JPG)
+![imagem 4](inputs/in222.jpg)
 
 ## Resultados da IA
 
