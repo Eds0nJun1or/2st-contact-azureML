@@ -12,15 +12,15 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Fotos tiradas por mim
 
-![imagem 2](inputs/in777.jpeg)
+![imagem 2](inputs/in777.JPEG)
 
 ## Fotos tiradas por mim
 
-![imagem 3](inputs/in555.jpeg)
+![imagem 3](inputs/in555.JPEG)
 
 ## Fotos tiradas por mim
 
-![imagem 4](inputs/in222.jpg)
+![imagem 4](inputs/in222.JPG)
 
 ## Resultados da IA
 
@@ -36,7 +36,7 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Resultados da IA
 
-![resultado 4](outputs/in222.jpg)
+![resultado 4](outputs/in222.JPG)
 
 ## Requisitos
 
