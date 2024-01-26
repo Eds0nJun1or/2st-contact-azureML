@@ -36,7 +36,7 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Resultados da IA
 
-![resultado 4](outputs/in222.JPG)
+![resultado 4](outputs/img3.png)
 
 ## Requisitos
 
