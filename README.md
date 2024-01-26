@@ -8,7 +8,7 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Fotos tiradas por mim
 
-![imagem 1](inputs/in666.png)
+![imagem 1](inputs/in666.PNG)
 
 ## Fotos tiradas por mim
 
