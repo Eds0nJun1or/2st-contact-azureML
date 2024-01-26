@@ -8,7 +8,7 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Fotos tiradas por mim
 
-![imagem 1](inputs/in666.PNG)
+![imagem 1](inputs/in111.jpg)
 
 ## Fotos tiradas por mim
 
@@ -24,7 +24,7 @@ Tive muitos insights nesse móudulo mas com toda certeza um dos principais foram
 
 ## Resultados da IA
 
-![resultado 1](outputs/face1.png)
+![resultado 1](outputs/nofaces.png)
 
 ## Resultados da IA
 
